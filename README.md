@@ -1,2 +1,2 @@
-# week3_day3_hw
+# Week 3, Day 3
 Christopher's homework for week 3 day 3. (We'll miss you, John. Enjoy your new job!)
